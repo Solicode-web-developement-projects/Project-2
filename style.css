@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(img/folley.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+main{
+    background-image: linear-gradient(to bottom,rgba(58, 165, 164, 0.8),rgba(122, 229, 228, 1));
+    overflow: hidden; 
+    padding-bottom: 3%;
+}
+header{
+    text-align: center;
+    color: aliceblue;
+    padding: 3%;
+}
+.title{
+    font-size: 48px;
+}
+.boxes{
+    background-color: white;
+    margin: 3%;
+    padding: 5%;
+    width: 90%;
+    overflow: auto;
+    margin-inline: 5%;
+}
+.aboutFoto{
+    width: 25%;
+    float: left;
+    margin-right: 12px;
+}
+ p{
+    font-family: 'Lato', sans-serif;
+ }
+ h1, h3, h4, h2{
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 3%;
+ }
+ .educationSousTitre{
+    margin-bottom: 29%;
+ }
+ .positionOfBoxContent div{
+    float: left;
+ }
+ .secondeDivOfProject{
+    margin-inline: 9%;
+ }
+ .workParagraph{
+    margin-bottom: 4%;
+ }
+ .secondDiv{
+    margin-inline: 25%;
+ }
+span{
+    color: gray;
+}
+.socialFoto{
+    width: 10%;
+    float: left;
+    margin-right: 3%;
+}
+#social div{
+    float: left;
+    width: 30%;
+}
+input {
+    width: 90%;
+    height: 30px;
+    margin-bottom: 2%;
+    background-color: #eeeeee;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+textarea{
+    margin-bottom: 2%;
+    width: 90%;
+    background-color: #eeeeee;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+button{
+    border-radius: 20px;
+    border: 1px solid transparent;
+    padding: 10px ;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+}
