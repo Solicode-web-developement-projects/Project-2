@@ -24,7 +24,7 @@ git clone https://github.com/your-profile/portfolio-website.git
 3. Verify responsiveness and styling adherence to the mockup.
 
 ## Project Timeline
-- **Start Date**: 7 Oktober 2023
+- **Start Date**: 9 Oktober 2023
 - **Duration**: 2 days
 
 ## Skills Developed
